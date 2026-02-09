@@ -19,7 +19,7 @@ This skill automates the health auditing and initialization of the OpenClaw Syst
 - Check for system connectivity health.
 
 ### 3. Task Center Sync
-- Ensure `PIPO-TASK-CENTER.md` is present in the root.
+- Ensure `TASK-CENTER.md` is present in the root.
 - Cross-reference current tasks with the `memory/` logs to detect stalls.
 
 ### 4. Knowledge Work Plugin Audit
