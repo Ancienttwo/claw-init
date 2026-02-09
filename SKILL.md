@@ -42,8 +42,9 @@ Run this to generate a full health report for the Master.
 
 ### Initialize System
 Use this for first-time setup:
-1. Copy templates from `templates/` to root (`SOUL.md`, `USER.md`).
-2. Run `scripts/install-browser-skills.sh`.
+1. **Define Project & Identity**: Rename placeholders in `templates/` with your actual Project Name and Main Agent Name.
+2. **Apply Templates**: Copy templates from `templates/` to root (`SOUL.md`, `USER.md`).
+3. **Skill Installation**: Run `scripts/install-browser-skills.sh`.
 
 ### flattening Migration
 If nesting is detected:
